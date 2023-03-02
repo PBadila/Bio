@@ -1,0 +1,51 @@
+    body{
+        background-image: url("/Users/corcoding/workspace/homework/medBio/zoltan-tasi-vHnVtLK8rCc-unsplash.jpg");
+    }
+    div{
+        border-top:40px;
+        background-color: rgb(255,255,255,0.5);
+
+        
+    }
+    h1{
+        font-family: 'Mynerve', cursive;
+        font-size: 40pt;
+        text-align:center;
+    }
+   .image{
+    border: 25px #D7BDE2 solid;
+    
+   }
+    
+    #imageContainer{
+      
+      
+        display:flex;
+        justify-content: center;
+        background-color: rgb(255,255,255,0.1);
+
+    }
+   p{
+    font-size: 24pt;
+    margin-left:50px;
+    margin-right:50px;
+   }
+    a:link {
+        color:#962fbf;
+    }
+    a:visited {
+        color:#d62976;
+    }
+    a:hover{
+        color:#fa7e1e;
+    }
+    a:active{
+        color:#4f5bd5;
+    }
+    .links{
+        display:flex;
+        justify-content: center; 
+        margin-top:15px;
+        background-color: rgb(255,255,255,0.1);
+       
+    }
